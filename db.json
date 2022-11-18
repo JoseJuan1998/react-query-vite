@@ -1,0 +1,94 @@
+{
+  "superheroes": [
+    {
+      "id": 1,
+      "name": "Spiderman",
+      "alterEgo": "Peter Parker"
+    },
+    {
+      "id": 2,
+      "name": "Deadpool",
+      "alterEgo": "Wade Wilson"
+    },
+    {
+      "id": 3,
+      "name": "Iron Man",
+      "alterEgo": "Tony Stark"
+    },
+    {
+      "name": "Hulk",
+      "alterEgo": "Bruce Banner",
+      "id": 4
+    },
+    {
+      "name": "Batman",
+      "alterEgo": "Bruce Wayne",
+      "id": 5
+    }
+  ],
+  "friends": [
+    {
+      "id": 1,
+      "name": "Chandler Bing"
+    },
+    {
+      "id": 2,
+      "name": "Joey Tribbiani"
+    },
+    {
+      "id": 3,
+      "name": "Rachel Green"
+    }
+  ],
+  "users": [
+    {
+      "id": "juan@cordage.io",
+      "channelId": "JuanCode"
+    }
+  ],
+  "channels": [
+    {
+      "id": "JuanCode",
+      "courses": [
+        "react",
+        "node",
+        "elixir",
+        "phoenix"
+      ]
+    }
+  ],
+  "colors": [
+    {
+      "id": 1,
+      "label": "red"
+    },
+    {
+      "id": 2,
+      "label": "blue"
+    },
+    {
+      "id": 3,
+      "label": "green"
+    },
+    {
+      "id": 4,
+      "label": "yellow"
+    },
+    {
+      "id": 5,
+      "label": "black"
+    },
+    {
+      "id": 6,
+      "label": "white"
+    },
+    {
+      "id": 7,
+      "label": "orange"
+    },
+    {
+      "id": 8,
+      "label": "purple"
+    }
+  ]
+}
